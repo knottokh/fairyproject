@@ -1,0 +1,85 @@
+.hidden-zoro{
+	height: 0px;
+	border-width: 0px;
+	padding:0px;
+	
+}
+.kudo-footer{
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+.kudo-thumb {
+    height: 75px;
+    border: 1px solid #000;
+  }
+ .kduo-pointer{
+ 	 cursor:pointer;
+ }
+ .kudo-button{
+ 	padding: 5px;
+ }
+  .kudo-button:hover{
+  	background-color: #ccc;
+  }
+  .imgpreview{
+  	height: 75px;
+  }
+  .modal-body { 
+    max-height: 400px; 
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
+ }
+.ui-autocomplete{
+  z-index: 15600!important;
+}
+.ui-imgpreview{
+	max-height: 50px;
+}
+.pad-left-0{
+		padding-left: 0px;
+	}
+.pad-right-0{
+		padding-right: 0px;
+	}
+.pad-lr-0{
+	padding-left: 0px;
+	padding-right: 0px;
+}
+.mar-l-0{
+	margin-left: 0px;
+}
+.float-r{
+	float: right;
+}
+td{
+   max-width: 250px; 
+   word-break: break-all;
+}
+ td.table-details {
+ 	white-space:pre;
+
+ }
+
+
+.globalNav {
+	background:-webkit-linear-gradient(300deg,#53f 15%,#05d5ff 70%,#a6ffcb 94%);
+}
+.globalNav .colorize{
+    color: #fff;
+}
+
+.roy-footer{
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+.form-number{
+	width:50px;
+}
+
+/*****Royal Style******/
+.kduo-contents{
+	padding-top: 50px;
+}
+div[data-dropdown] li a{
+    white-space: pre;
+}
